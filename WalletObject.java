@@ -15,7 +15,7 @@ class Wallet {
 public class WalletObject {
     public static void main(String[] args) {
         
-        Wallet cab = new Wallet("Khian", 200);
+        Wallet cab = new Wallet("Allysa", 300);
 
         System.out.println("Owner of Wallet: ");
         System.out.println(cab.owner);
